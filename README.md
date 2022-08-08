@@ -1,6 +1,6 @@
 ### Hi there 👋 I am a Python developer in my early experience level. I enjoy programming and I would like to use it to better the world... </br></br>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atepene@gmail.com)](mailto:atepene@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-liuxunzhuo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephen-aliemeke/)](https://www.linkedin.com/in/stephen-aliemeke/)
+[![Linkedin Badge](https://img.shields.io/badge/-Stephen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephen-aliemeke/)](https://www.linkedin.com/in/stephen-aliemeke/) ![Profile View Counter](https://komarev.com/ghpvc/?username=aliemekestephen)
 
 ### Languages and Tools:
 <img height="32" width="32" src="https://skillicons.dev/icons?i=python">&nbsp;&nbsp;
