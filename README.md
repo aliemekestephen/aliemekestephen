@@ -1,5 +1,5 @@
-### Hi there 👋 I am a Python developer in my early experience level. I enjoy programming and I would like to use it to better the world...
-
+### Hi there 👋 I am a Python developer in my early experience level. I enjoy programming and I would like to use it to better the world... </br></br>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atepene@gmail.com)](mailto:atepene@gmail.com)
 
 ### Languages and Tools:
 <img height="32" width="32" src="https://skillicons.dev/icons?i=python">&nbsp;&nbsp;
