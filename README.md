@@ -12,9 +12,10 @@
 <img height="32" width="32" src="https://skillicons.dev/icons?i=css">&nbsp;&nbsp;
 <img height="32" width="32" src="https://skillicons.dev/icons?i=html">&nbsp;&nbsp;
 <img height="32" width="32" src="https://skillicons.dev/icons?i=idea">&nbsp;&nbsp;
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> 
-&nbsp;&nbsp; <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> &nbsp;&nbsp; <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-&nbsp;&nbsp;  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> &nbsp;&nbsp; <img height="32" width="32" src="https://cdn-images-1.medium.com/max/228/1*DhdHDzruFyR4kN417zxiVA.png">
+<img height="32" width="32" src="https://skillicons.dev/icons?i=js">&nbsp;&nbsp;
+<img height="32" width="32" src="https://skillicons.dev/icons?i=mysql">&nbsp;&nbsp;
+&nbsp;&nbsp; <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+&nbsp;&nbsp;  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> 
 
 
 <!--
